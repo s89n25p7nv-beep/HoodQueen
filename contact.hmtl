@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hood Queen Contact</title>
+<style>
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: #0b0b0b;
+        color: white;
+    }
+    header {
+        background: black;
+        padding: 20px;
+        text-align: center;
+    }
+    header h1 {
+        color: gold;
+        letter-spacing: 3px;
+    }
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin: 8px;
+    }
+    .section {
+        text-align: center;
+        padding: 60px 20px;
+    }
+    h2 {
+        color: gold;
+        font-size: 35px;
+    }
+    .box {
+        background: #171717;
+        border: 1px solid gold;
+        border-radius: 10px;
+        padding: 25px;
+        max-width: 500px;
+        margin: auto;
+    }
+    .box p {
+        font-size: 18px;
+    }
+    footer {
+        background: black;
+        text-align: center;
+        padding: 20px;
+    }
+</style>
+</head>
+<body>
+<header>
+    <h1>HOOD QUEEN</h1>
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="clothing.html">Clothing</a>
+    <a href="cosmetics.html">Cosmetics</a>
+    <a href="cottage-food.html">Cottage Food</a>
+    <a href="contact.html">Contact</a>
+</nav>
+</header>
+<section class="section">
+<h2>Contact Hood Queen</h2>
+<div class="box">
+<p>
+Have questions, business inquiries, or want to join the Hood Queen movement?
+</p>
+<p>
+📧 Email: your@email.com
+</p>
+<p>
+📱 Instagram: @hood_queen.xiv
+</p>
+<p>
+Built From Struggle. Worn With Purpose.
+</p>
+</div>
+</section>
+<footer>
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
