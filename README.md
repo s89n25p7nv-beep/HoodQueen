@@ -1,4 +1,5 @@
 # HoodQueen
+
 About Hood Queen
 
 Built From Struggle. Worn With Purpose.
@@ -20,6 +21,7 @@ This movement is for Queens, Kings, mothers, fathers, dreamers, creators, and an
 Our Mission
 
 Our mission is to create streetwear with meaning — pieces that tell a story, represent confidence, and remind people to never forget their roots.
+
 Every design carries a message:
 
 The Hood Made Us. Royalty Became Us.
@@ -55,3 +57,5 @@ This is more than a brand.
 This is a legacy.
 
 Built From Struggle. Worn With Purpose.
+
+
