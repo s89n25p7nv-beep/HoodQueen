@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen Launch</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="shop.html">Shop</a>
+<a href="launch.html">Launch</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>The Hood Queen Era Begins</h2>
+
+<p>
+Built From Struggle. Worn With Purpose.
+</p>
+
+<a class="button" href="contact.html">Join The Movement</a>
+
+</section>
+
+
+<section class="section">
+
+<h2>First Collection</h2>
+
+<h3>The Queen's Rise Collection</h3>
+
+<p>
+A collection created for those who turned obstacles into strength and refused to stay down.
+</p>
+
+<p>
+Heavyweight streetwear. Luxury details. A story behind every piece.
+</p>
+
+</section>
+
+
+<section class="section">
+
+<h2>What To Expect</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Clothing</h3>
+<p>
+Hoodies, shirts, sweats, hats, and signature pieces.
+</p>
+</div>
+
+<div class="card">
+<h3>Beauty</h3>
+<p>
+Hood Queen cosmetics made for confidence and self-expression.
+</p>
+</div>
+
+<div class="card">
+<h3>Community</h3>
+<p>
+A movement built around loyalty, growth, and legacy.
+</p>
+</div>
+
+</div>
+
+</section>
+
+
+<section class="section">
+
+<h2>Stay Ready</h2>
+
+<p>
+Follow Hood Queen for launch announcements, behind-the-scenes content, and first access to new drops.
+</p>
+
+<p>
+<strong>
+The Hood Made Us. Royalty Became Us.
+</strong>
+</p>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+
+</footer>
+
+
+</body>
+
+</html>
