@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen Returns</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="shipping.html">Shipping</a>
+<a href="returns.html">Returns</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>Returns & Exchanges</h2>
+
+<p>
+Our goal is to make sure every Queen and King receives their order with confidence.
+</p>
+
+</section>
+
+
+<section class="section">
+
+
+<div class="card">
+
+<h3>Return Policy</h3>
+
+<p>
+Returns and exchanges may be accepted within the stated return period for eligible items. Products must be unused and returned in original condition.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Exchanges</h3>
+
+<p>
+Need a different size? Contact Hood Queen with your order information and we will help with available exchange options.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Damaged Items</h3>
+
+<p>
+If your item arrives damaged or incorrect, contact Hood Queen as soon as possible so we can assist you.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Final Sale Items</h3>
+
+<p>
+Limited drops, custom pieces, or special collections may have different return rules.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Contact Hood Queen</h3>
+
+<p>
+For return questions, please visit our contact page and provide your order details.
+</p>
+
+</div>
+
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+
+</html>
+<a href="returns.html">Returns</a>
