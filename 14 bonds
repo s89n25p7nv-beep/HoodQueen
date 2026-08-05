@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen Bonds</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0b0b;
+    color: white;
+}
+
+header {
+    background: black;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: gold;
+    letter-spacing: 3px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 8px;
+}
+
+.section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+h2 {
+    color: gold;
+    font-size: 35px;
+}
+
+.bonds {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    background: #171717;
+    border: 1px solid gold;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+}
+
+.card h3 {
+    color: gold;
+}
+
+footer {
+    background: black;
+    text-align: center;
+    padding: 20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="clothing.html">Clothing</a>
+<a href="cosmetics.html">Cosmetics</a>
+<a href="cottage-food.html">Cottage Food</a>
+<a href="bonds.html">Bonds</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="section">
+
+<h2>The 14 Hood Queen Bonds</h2>
+
+<p>
+The foundation of the Hood Queen movement. 
+Built on values that represent strength, loyalty, and purpose.
+</p>
+
+
+<div class="bonds">
+
+<div class="card"><h3>I. Loyalty</h3><p>Standing true to yourself and those who stand with you.</p></div>
+
+<div class="card"><h3>II. Respect</h3><p>Giving respect and earning it through your actions.</p></div>
+
+<div class="card"><h3>III. Unity</h3><p>Building together and lifting each other up.</p></div>
+
+<div class="card"><h3>IV. Leadership</h3><p>Leading with confidence, purpose, and example.</p></div>
+
+<div class="card"><h3>V. Protection</h3><p>Protecting your people, your values, and your vision.</p></div>
+
+<div class="card"><h3>VI. Growth</h3><p>Learning, evolving, and becoming better.</p></div>
+
+<div class="card"><h3>VII. Discipline</h3><p>Staying focused and committed to your goals.</p></div>
+
+<div class="card"><h3>VIII. Service</h3><p>Using your success to help others rise.</p></div>
+
+<div class="card"><h3>IX. Integrity</h3><p>Doing what is right even when nobody is watching.</p></div>
+
+<div class="card"><h3>X. Courage</h3><p>Having the strength to face challenges.</p></div>
+
+<div class="card"><h3>XI. Sisterhood</h3><p>Supporting and empowering your community.</p></div>
+
+<div class="card"><h3>XII. Legacy</h3><p>Creating something that lasts beyond yourself.</p></div>
+
+<div class="card"><h3>XIII. Excellence</h3><p>Always striving to become your best.</p></div>
+
+<div class="card"><h3>XIV. Royalty</h3><p>Knowing your worth and wearing your crown.</p></div>
+
+</div>
+
+</section>
+
+
+<footer>
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
+<a href="bonds.html">Bonds</a>
