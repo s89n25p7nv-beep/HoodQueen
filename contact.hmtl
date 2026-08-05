@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Hood Queen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>HOOD QUEEN</h1>
+    <p>Built From Struggle. Worn With Purpose.</p>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="clothing.html">Clothing</a>
+        <a href="cosmetics.html">Cosmetics</a>
+        <a href="cottage-food.html">Cottage Food</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+
+<section>
+    <h2>Contact Hood Queen</h2>
+
+    <p>
+        Have a question, collaboration idea, or want to be part
+        of the movement? Reach out to Hood Queen.
+    </p>
+</section>
+
+
+<section>
+    <h2>Business Inquiries</h2>
+
+    <div>
+        <p>Email:</p>
+        <p>your-email@example.com</p>
+
+        <p>Instagram:</p>
+        <p>@hood_queen.xiv</p>
+    </div>
+</section>
+
+
+<section>
+    <h2>Join The Movement</h2>
+
+    <p>
+        Hood Queen is built for dreamers, creators, survivors,
+        and anyone chasing something bigger.
+    </p>
+
+    <p>
+        The Hood Made Us. Royalty Became Us.
+    </p>
+</section>
+
+
+<section>
+    <h2>Message Us</h2>
+
+    <form>
+
+        <input type="text" placeholder="Your Name">
+
+        <br><br>
+
+        <input type="email" placeholder="Your Email">
+
+        <br><br>
+
+        <textarea placeholder="Your Message"></textarea>
+
+        <br><br>
+
+        <button type="submit">
+            Send Message
+        </button>
+
+    </form>
+
+</section>
+
+
+<footer>
+    <p>© 2026 Hood Queen. All Rights Reserved.</p>
+    <p>The Hood Made Us. Royalty Became Us.</p>
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
