@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen Shipping</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="shipping.html">Shipping</a>
+<a href="returns.html">Returns</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>Shipping Information</h2>
+
+<p>
+Bringing the Hood Queen movement from our hands to your home.
+</p>
+
+</section>
+
+
+<section class="section">
+
+
+<div class="card">
+
+<h3>Order Processing</h3>
+
+<p>
+Orders are prepared with care. Processing times may vary depending on product availability and launch drops.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Shipping Times</h3>
+
+<p>
+Shipping times will be provided after your order is processed. Customers will receive tracking information when available.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Launch Drops</h3>
+
+<p>
+Limited collections and first releases may require additional processing time due to high demand.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Order Updates</h3>
+
+<p>
+For questions about your order, contact Hood Queen through our contact page.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>International Orders</h3>
+
+<p>
+International shipping options and availability will be announced as Hood Queen expands.
+</p>
+
+</div>
+
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+
+</html>
+<a href="shipping.html">Shipping</a>
