@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen Shop</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="clothing.html">Clothing</a>
+<a href="cosmetics.html">Cosmetics</a>
+<a href="cottage-food.html">Cottage Food</a>
+<a href="bonds.html">Bonds</a>
+<a href="shop.html">Shop</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>Shop Hood Queen</h2>
+
+<p>
+Luxury streetwear, beauty, and products built from struggle and worn with purpose.
+</p>
+
+</section>
+
+
+<section class="section">
+
+<h2>Featured Collections</h2>
+
+
+<div class="cards">
+
+
+<div class="card">
+<h3>Queen's Rise Hoodie</h3>
+<p>
+Signature Hood Queen heavyweight hoodie.
+</p>
+<p>
+Price: Coming Soon
+</p>
+<button>Shop Now</button>
+</div>
+
+
+<div class="card">
+<h3>Royal Bloodline Collection</h3>
+<p>
+Pieces representing family, loyalty, and legacy.
+</p>
+<p>
+Price: Coming Soon
+</p>
+<button>Shop Now</button>
+</div>
+
+
+<div class="card">
+<h3>Hood Queen Beauty</h3>
+<p>
+Lip oils, lashes, and beauty essentials.
+</p>
+<p>
+Price: Coming Soon
+</p>
+<button>Shop Now</button>
+</div>
+
+
+<div class="card">
+<h3>Cottage Food Collection</h3>
+<p>
+Homemade treats made with love.
+</p>
+<p>
+Price: Coming Soon
+</p>
+<button>Shop Now</button>
+</div>
+
+
+</div>
+
+</section>
+
+
+<section class="section">
+
+<h2>Coming Soon</h2>
+
+<p>
+The Hood Queen store is being built. Stay connected for the official launch.
+</p>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+
+</footer>
+
+
+</body>
+</html>
