@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>About Hood Queen</title>
+
+<style>
+body {
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#050505;
+    color:white;
+    text-align:center;
+}
+
+header {
+    padding:50px 20px;
+    background:#111;
+}
+
+h1, h2 {
+    color:#d4af37;
+}
+
+section {
+    padding:30px 20px;
+}
+
+.card {
+    background:#111;
+    border:1px solid #d4af37;
+    border-radius:15px;
+    padding:25px;
+    margin:20px;
+}
+
+a {
+    display:inline-block;
+    background:#d4af37;
+    color:black;
+    padding:12px 25px;
+    border-radius:25px;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+footer {
+    padding:30px;
+    color:#d4af37;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>ABOUT HOOD QUEEN 👑</h1>
+
+<p>
+The story behind the crown.
+</p>
+
+</header>
+
+
+<section>
+
+<div class="card">
+
+<h2>Our Story</h2>
+
+<p>
+Hood Queen was created from the idea that your past does not define your future.
+It represents the people who turned struggle into strength, pain into purpose, and dreams into reality.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>Founded By Vanessa Navarro</h2>
+
+<p>
+A brand built from real experiences, determination, and the vision to create something that inspires others to believe in themselves.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>Our Values</h2>
+
+<p>
+👑 Loyalty over popularity<br><br>
+👑 Respect earns respect<br><br>
+👑 Family comes first<br><br>
+👑 Hustle with purpose<br><br>
+👑 Never forget where you came from
+</p>
+
+</div>
+
+</section>
+
+
+<a href="index.html">Back Home</a>
+
+
+<footer>
+© 2026 Hood Queen
+</footer>
+
+
+</body>
+</html>
