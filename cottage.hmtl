@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hood Queen Cottage Food</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #0b0b0b;
+            color: white;
+        }
+    header {
+        background: #000;
+        padding: 20px;
+        text-align: center;
+    }
+    header h1 {
+        color: gold;
+        letter-spacing: 3px;
+    }
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin: 10px;
+    }
+    .hero {
+        padding: 60px 20px;
+        text-align: center;
+    }
+    .hero h2 {
+        color: gold;
+        font-size: 35px;
+    }
+    .section {
+        padding: 30px 20px;
+        text-align: center;
+    }
+    .products {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    .card {
+        background: #171717;
+        border: 1px solid gold;
+        border-radius: 10px;
+        padding: 20px;
+        width: 250px;
+    }
+    .card h3 {
+        color: gold;
+    }
+    footer {
+        text-align: center;
+        padding: 20px;
+        background: black;
+    }
+</style>
+</head>
+<body>
+<header>
+    <h1>HOOD QUEEN</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="clothing.html">Clothing</a>
+        <a href="cosmetics.html">Cosmetics</a>
+        <a href="cottage-food.html">Cottage Food</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<section class="hero">
+    <h2>Hood Queen Cottage Food</h2>
+    <p>
+        Homemade flavors. Family recipes. Made with love and purpose.
+    </p>
+</section>
+<section class="section">
+<h2>From Our Kitchen To Your Home</h2>
+<p>
+Hood Queen Cottage Food brings comfort, culture, and creativity together through handcrafted treats made to create memories.
+Every item represents hard work, family, and the love behind building something from the ground up.
+</p>
+<div class="products">
+<div class="card">
+<h3>Signature Cookies</h3>
+<p>
+Fresh baked cookies made with care and Hood Queen flavor.
+</p>
+</div>
+<div class="card">
+<h3>Sweet Treats</h3>
+<p>
+Desserts and treats created for celebrations, gifts, and everyday cravings.
+</p>
+</div>
+<div class="card">
+<h3>Family Favorites</h3>
+<p>
+Inspired by recipes, traditions, and the people who helped shape our story.
+</p>
+</div>
+</div>
+</section>
+<section class="section">
+<h2>The Hood Queen Promise</h2>
+<p>
+Built from struggle. Worn with purpose. Served with love.
+</p>
+<p>
+Our goal is to create products that bring people together while building a brand that represents resilience, family, and success.
+</p>
+</section>
+<footer>
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
