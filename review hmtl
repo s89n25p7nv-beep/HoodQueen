@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen Reviews</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="gallery.html">Gallery</a>
+<a href="reviews.html">Reviews</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>Hood Queen Community</h2>
+
+<p>
+Real stories from the people who wear the crown.
+</p>
+
+</section>
+
+
+<section class="section">
+
+<h2>Customer Reviews</h2>
+
+<div class="cards">
+
+
+<div class="card">
+<h3>★★★★★</h3>
+<p>
+"More than clothing. It's a reminder of where I came from and where I'm going."
+</p>
+<p>- Hood Queen Supporter</p>
+</div>
+
+
+<div class="card">
+<h3>★★★★★</h3>
+<p>
+"The message behind this brand is powerful. Built from struggle, worn with purpose."
+</p>
+<p>- Hood Queen Supporter</p>
+</div>
+
+
+<div class="card">
+<h3>★★★★★</h3>
+<p>
+"Can't wait to represent Hood Queen."
+</p>
+<p>- Hood Queen Supporter</p>
+</div>
+
+
+</div>
+
+</section>
+
+
+<section class="section">
+
+<h2>Be Featured</h2>
+
+<p>
+Purchased Hood Queen? Tag us and share your story for a chance to be featured.
+</p>
+
+<p>
+Your story could inspire someone else.
+</p>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+
+</footer>
+
+</body>
+
+</html>
