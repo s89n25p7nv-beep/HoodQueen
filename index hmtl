@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0b0b;
+    color: white;
+}
+
+header {
+    background: black;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: gold;
+    font-size: 45px;
+    letter-spacing: 5px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 8px;
+}
+
+.hero {
+    text-align: center;
+    padding: 90px 20px;
+    background: linear-gradient(#000000, #171717);
+}
+
+.hero h2 {
+    color: gold;
+    font-size: 45px;
+}
+
+.hero p {
+    font-size: 20px;
+}
+
+.button {
+    display: inline-block;
+    background: gold;
+    color: black;
+    padding: 12px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.section {
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.section h2 {
+    color: gold;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    background: #171717;
+    border: 1px solid gold;
+    border-radius: 10px;
+    padding: 20px;
+    width: 250px;
+}
+
+.card h3 {
+    color: gold;
+}
+
+footer {
+    background: black;
+    text-align: center;
+    padding: 20px;
+}
+</style>
+
+</head>
+
+<body>
+
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="clothing.html">Clothing</a>
+<a href="cosmetics.html">Cosmetics</a>
+<a href="cottage-food.html">Cottage Food</a>
+<a href="bonds.html">Bonds</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>Built From Struggle.<br>Worn With Purpose.</h2>
+
+<p>
+The Hood Queen movement represents resilience, loyalty, and turning your story into your strength.
+</p>
+
+<a class="button" href="clothing.html">Shop Hood Queen</a>
+
+</section>
+
+
+
+<section class="section">
+
+<h2>Welcome To The Movement</h2>
+
+<p>
+Hood Queen is more than a brand. It is a lifestyle built for Queens, Kings, creators, dreamers, and anyone who refuses to give up.
+</p>
+
+<p>
+<strong>The Hood Made Us. Royalty Became Us.</strong>
+</p>
+
+</section>
+
+
+
+<section class="section">
+
+<h2>Explore Hood Queen</h2>
+
+
+<div class="cards">
+
+
+<div class="card">
+<h3>Clothing</h3>
+<p>
+Luxury streetwear created with meaning and purpose.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Cosmetics</h3>
+<p>
+Beauty products made for confidence and self-expression.
+</p>
+</div>
+
+
+<div class="card">
+<h3>Cottage Food</h3>
+<p>
+Homemade flavors created with love and family.
+</p>
+</div>
+
+
+<div class="card">
+<h3>14 Hood Queen Bonds</h3>
+<p>
+The values that build the foundation of the movement.
+</p>
+</div>
+
+
+</div>
+
+</section>
+
+
+
+<section class="section">
+
+<h2>Join The Legacy</h2>
+
+<p>
+Your past does not define you. Your strength, your choices, and your purpose do.
+</p>
+
+<a class="button" href="contact.html">Contact Hood Queen</a>
+
+</section>
+
+
+
+<footer>
+
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+
+</footer>
+
+
+</body>
+</html>
