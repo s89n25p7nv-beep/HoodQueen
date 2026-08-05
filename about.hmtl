@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Hood Queen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>HOOD QUEEN</h1>
+    <p>Built From Struggle. Worn With Purpose.</p>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="clothing.html">Clothing</a>
+        <a href="cosmetics.html">Cosmetics</a>
+        <a href="cottage-food.html">Cottage Food</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+
+<section>
+    <h2>About Hood Queen</h2>
+
+    <p>
+        Built from struggle. Worn with purpose.
+    </p>
+
+    <p>
+        Hood Queen is more than clothing. It is a movement created for
+        those who turned pain into power, obstacles into strength, and
+        their story into their purpose.
+    </p>
+
+    <p>
+        The hood made us. Royalty became us.
+    </p>
+</section>
+
+
+<section>
+    <h2>Our Founder</h2>
+
+    <p>
+        Founded by Vanessa Navarro, Hood Queen was created from real
+        experiences, resilience, and the belief that where you come from
+        does not limit where you can go.
+    </p>
+
+    <p>
+        Hood Queen represents loyalty, ambition, family, growth, and
+        becoming the person you were meant to be.
+    </p>
+</section>
+
+
+<section>
+    <h2>The Hood Queen 14 Bonds</h2>
+
+    <div>
+        <p>1. Loyalty Over Popularity</p>
+        <p>2. Respect Earns Respect</p>
+        <p>3. Family Comes First</p>
+        <p>4. Hustle With Purpose</p>
+        <p>5. Never Forget Where You Came From</p>
+        <p>6. Turn Pain Into Power</p>
+        <p>7. Keep Your Crown Through The Storm</p>
+        <p>8. Stay True To Yourself</p>
+        <p>9. Protect Your Peace</p>
+        <p>10. Build, Don't Destroy</p>
+        <p>11. Rise And Bring Others With You</p>
+        <p>12. Believe In Your Vision</p>
+        <p>13. Create Your Own Legacy</p>
+        <p>14. Royalty Is Earned Through Character</p>
+    </div>
+</section>
+
+
+<section>
+    <h2>Our Mission</h2>
+
+    <p>
+        Hood Queen exists to inspire people to embrace their story,
+        own their power, and wear their journey with pride.
+    </p>
+</section>
+
+
+<footer>
+    <p>© 2026 Hood Queen. All Rights Reserved.</p>
+    <p>The Hood Made Us. Royalty Became Us.</p>
+</footer>
+
+
+<script src="script.js"></script>
+
+</body>
+</html>
