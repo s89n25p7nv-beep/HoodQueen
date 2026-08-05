@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen Size Guide</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="clothing.html">Clothing</a>
+<a href="size-guide.html">Size Guide</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>Hood Queen Size Guide</h2>
+
+<p>
+Find your perfect fit before wearing the crown.
+</p>
+
+</section>
+
+
+<section class="section">
+
+<h2>Hoodies & Sweatshirts</h2>
+
+<div class="card">
+
+<p><strong>Small (S)</strong> — Comfortable fitted look</p>
+<p><strong>Medium (M)</strong> — Regular fit</p>
+<p><strong>Large (L)</strong> — Relaxed fit</p>
+<p><strong>X-Large (XL)</strong> — Oversized streetwear fit</p>
+<p><strong>2X-Large (2XL)</strong> — Extra oversized fit</p>
+
+</div>
+
+
+<h2>T-Shirts</h2>
+
+<div class="card">
+
+<p><strong>S</strong> — Small</p>
+<p><strong>M</strong> — Medium</p>
+<p><strong>L</strong> — Large</p>
+<p><strong>XL</strong> — Extra Large</p>
+<p><strong>2XL</strong> — Double Extra Large</p>
+
+</div>
+
+
+<h2>Hood Queen Kids Collection</h2>
+
+<div class="card">
+
+<p>
+Kids sizes will be available with future Hood Queen youth collections.
+</p>
+
+</div>
+
+
+</section>
+
+
+<section class="section">
+
+<h2>Need Help Choosing?</h2>
+
+<p>
+For an oversized streetwear look, consider sizing up one size.
+</p>
+
+<p>
+If you have questions about sizing, contact Hood Queen before ordering.
+</p>
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+
+</footer>
+
+
+</body>
+
+</html>
+<a href="size-guide.html">Size Guide</a>
