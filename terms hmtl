@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hood Queen Terms & Conditions</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>HOOD QUEEN</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="privacy.html">Privacy</a>
+<a href="terms.html">Terms</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+
+<section class="hero">
+
+<h2>Terms & Conditions</h2>
+
+<p>
+The rules and guidelines for the Hood Queen experience.
+</p>
+
+</section>
+
+
+<section class="section">
+
+
+<div class="card">
+
+<h3>Using Our Website</h3>
+
+<p>
+By visiting the Hood Queen website, you agree to use the site respectfully and only for lawful purposes.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Products & Availability</h3>
+
+<p>
+All products, designs, prices, and availability may change as Hood Queen grows and releases new collections.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Orders</h3>
+
+<p>
+Customers are responsible for providing accurate information when placing orders. Order details should be reviewed before purchase.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Brand Rights</h3>
+
+<p>
+Hood Queen designs, logos, artwork, and brand content belong to Hood Queen and may not be copied or used without permission.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Customer Experience</h3>
+
+<p>
+We aim to provide a positive experience for everyone who supports the Hood Queen movement.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h3>Contact</h3>
+
+<p>
+For questions about these Terms & Conditions, contact Hood Queen through our contact page.
+</p>
+
+</div>
+
+
+</section>
+
+
+<footer>
+
+<p>© 2026 Hood Queen. All Rights Reserved.</p>
+
+</footer>
+
+
+</body>
+
+</html>
